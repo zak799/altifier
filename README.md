@@ -6,4 +6,5 @@ so basically you do like
 ```
 import altifier
 
-alty_text("test text here")```
+alty_text("test text here")
+```
